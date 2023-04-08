@@ -4155,3 +4155,4 @@ svg aria-hidden {
   content: "Synthwave '84 " var(--rs-version);
   display: block;
 }
+:root { --customFont: "gg sans"; }
